@@ -106,7 +106,42 @@ nav{
   border-radius: 16px;
 }
   
-    
+/*Productive*/
+.Productive {
+  background-color: #eef0ff; /* light purple background */
+  padding: 60px 20px;
+  text-align: center;
+  border-radius: 20px;
+  max-width: 900px;
+  margin: 40px auto;
+}
+
+.pro-title {
+  font-size: 22px;
+  font-weight: 700;
+  color: #252432;
+  margin-bottom: 40px;
+}
+
+.pro-container {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.pro-box h3 {
+  font-size: 32px;
+  font-weight: 700;
+  color: #4E47FF;
+  margin-bottom: 8px;
+}
+
+.pro-box p {
+  font-size: 14px;
+  color: #999aaa;
+}
+
     
 
 
