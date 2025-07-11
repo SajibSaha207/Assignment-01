@@ -345,6 +345,50 @@ button:hover {
   background-color: brown;
 }
 
+/* Footer Styles */
+.footer {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #ffffff;  
+}
+
+.footer-logo {
+  font-family: Arial, sans-serif;
+  font-size: 36px;
+  font-weight: 800;
+  color: #4e47ff;  
+  margin-bottom: 16px;
+  
+}
+
+.footer-subtitle {
+  font-size: 14px;
+  color: #888888;
+  max-width: 600px;
+  margin: 0 auto 30px;
+  line-height: 1.6;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.footer-links li a {
+  text-decoration: none;
+  font-size: 14px;
+  color: #999aaa;
+  transition: color 0.3s ease;
+}
+
+.footer-links li a:hover {
+  color: #4e47ff;
+}
+
     
 
 
