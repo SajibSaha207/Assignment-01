@@ -1,5 +1,7 @@
  
-
+*{
+  margin: 0;
+}
 /*header*/
 .header-bg{
     background-image: url(../images/Assets/Hero-bg.png);
